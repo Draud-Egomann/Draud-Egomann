@@ -94,6 +94,6 @@
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg"
                         alt="digitalocean" width="40" height="40" /> </a>
         <a href="https://www.markdownguide.org" target="_blank" rel="noreferrer"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg"
+                        src="https://www.markdownguide.org/assets/images/markdown-mark-white.svg"
                         alt="markdown" width="40" height="40" /> </a>
 </p>
