@@ -1,5 +1,4 @@
 <h1 align="center">👋, I'm Justin Urbanek</h1>
-<h3 align="center">Gets payed for typing on a keyboard</h3>
 <p align="center">Software Developer 💻 | Coffee Enthusiast ☕</p>
 
 <hr />
