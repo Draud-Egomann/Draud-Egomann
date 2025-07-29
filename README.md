@@ -1,12 +1,8 @@
 <h1 align="center">👋, I'm Justin Urbanek</h1>
-<p align="center">Software Developer 💻 | Coffee Enthusiast ☕</p>
 
 <hr />
 
 <ul>
-        <li>
-                ☕ during the day, 🥛 during the night
-        </li>
         <li>
                 Prefers Frontend Development, using Node.js Frameworks like Vue.js & Nuxt.js
         </li>
